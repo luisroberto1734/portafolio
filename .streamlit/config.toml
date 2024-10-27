@@ -1,0 +1,17 @@
+[theme]
+ 
+# Primary accent for interactive elements
+primaryColor = '#0056B3'  # Dark blue for interactive elements, signifying trust and professionalism
+ 
+# Background color for the main content area
+backgroundColor = '#F4F6F8'  # Light grayish-blue for a clean, modern look that reduces eye strain
+ 
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = '#E1E6EA'  # Soft grayish-blue for subtle depth and distinction
+ 
+# Color used for almost all text
+textColor = '#2C3E50'  # Dark navy for strong contrast, conveying professionalism and readability
+ 
+# Font family for all text in the app, except code blocks
+font = "Helvetica, sans-serif"  # Clean and modern sans-serif font for a polished appearance
+
